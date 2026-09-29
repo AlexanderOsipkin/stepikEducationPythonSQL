@@ -165,3 +165,5 @@ allure-results
 allure
 
 screen
+
+test_sql.db
