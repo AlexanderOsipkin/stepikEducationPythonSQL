@@ -166,4 +166,6 @@ allure
 
 screen
 
+# db
 test_sql.db
+registration.db
